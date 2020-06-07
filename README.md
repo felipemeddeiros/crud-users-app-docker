@@ -7,6 +7,10 @@
 
 ### Repositories
 
+Clone these repositories beside docker directory:
+ - [API](https://github.com/felipemeddeiros/crud-users-app-api) - please clone the repository as ***users-api***
+ - [Client](https://github.com/felipemeddeiros/crud-users-app-client) - please clone the repository as ***users-application***
+
 ### Instructions
 
 Get in the docker directory and execute
@@ -59,9 +63,3 @@ Now the system is available on the following link:
 There is one user registered, you can use him.
 Email: teste@email.com
 Password: password
-
-
-
-
-
-# crud-users-app-docker
